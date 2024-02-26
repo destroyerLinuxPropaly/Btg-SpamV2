@@ -9,8 +9,8 @@ $ apt install pip
 step 4
 $ pip install requests
 step 5
-cd Btg-SpamV2
+$ cd Btg-SpamV2
 step 6
-python main.py
+$ python main.py
 
 and Thanks To Used My spam wa
